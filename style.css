@@ -1,0 +1,321 @@
+.purple{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 1728px;
+    height: 90px;
+    margin: 0 auto;
+    background: #6f6af7;
+}
+.purple p{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 215px;
+    height: 63px;
+    margin: 0 auto;
+    color: #ffffff;
+    font-size: 61px;
+    font-weight: 700;
+    line-height: 63px;
+    margin-left: 40px;
+}
+.a1{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 100px;
+    height: 16px;
+    margin: 0 auto;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 300px;
+    bottom: 30px;
+    
+}
+.a2{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 100px;
+    height: 16px;
+    margin: 0 auto;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 60px;
+    bottom: 30px;
+
+}
+.a3{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 100px;
+    height: 16px;
+    margin: 0 auto;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 60px;
+    bottom: 30px;
+}
+.a4{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 100px;
+    height: 16px;
+    margin: 0 auto;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 60px;
+    bottom: 30px;
+}
+.a5{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 15px;
+    height: 8px;
+    bottom: 30px;
+
+}
+.a6{
+    background: white;
+    margin-left: 60px;
+    transform: translateY(-30px);
+    
+}
+.a7{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 25px;
+    height: 12px;
+    bottom: 30px;
+    margin-left: 250px;
+
+}
+.b1{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 350px;
+    height: 370px;
+    margin: 0 auto;
+    border-radius: 20px;
+    top: 40px;
+    margin-left: 150px;
+}
+.b2{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 602px;
+    height: 370px;
+    margin: 0 auto;
+    background: #e4d8ff;
+    border: 6px solid #ffffff;
+    border-radius: 20px;
+    box-shadow: 3px 5px 27px 0 rgba(0, 0, 0, 0.25) inset;
+    top: 40px;
+    margin-left: 60px;
+}
+.b3{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 70px;
+    height: 68.612px;
+    margin: 0 auto;
+    margin-left: 1275px;
+    bottom: 200px;
+}
+.b4{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 60px;
+    height: 50.612px;
+    margin: 0 auto;
+    margin-left: 1275px;
+    bottom: 200px;
+
+}
+.b5{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 60px;
+    height: 50.612px;
+    margin: 0 auto;
+    margin-left: 1275px;
+    bottom: 200px;
+}
+.c1{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 220px;
+    height: 70px;
+    margin: 0 auto;
+    background: #919cff;
+    border-radius: 11px;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2);
+    bottom: 100px;
+    margin-left: 150px;
+    color: white;
+}
+.c2{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 220px;
+    height: 70px;
+    margin: 0 auto;
+    background: #734cf2;
+    border-radius: 11px;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2);
+    bottom: 100px;
+    margin-left: 50px;
+    color: white;
+}
+.c3{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 220px;
+    height: 70px;
+    margin: 0 auto;
+    background: #d187ff;
+    border-radius: 11px;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2);
+    bottom: 100px;
+    margin-left: 50px;
+    color: white;
+}
+.c4{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 220px;
+    height: 70px;
+    margin: 0 auto;
+    background: black;
+    border-radius: 11px;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2);
+    bottom: 100px;
+    margin-left: 50px;
+    color: white;
+}
+.c5{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 60px;
+    height: 50.612px;
+    margin: 0 auto;
+    margin-left: 1125px;
+    bottom: 150px;
+}
+.d1{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 1050px;
+    height: 450px;
+    margin: 0 auto;
+    background: #483eff;
+    border-radius: 21px;
+    bottom: 110px;
+    margin-left: 150px;
+}
+.d2{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 207px;
+    height: 73px;
+    margin: 0 auto;
+    background: #bce0f6;
+    border-radius: 22px;
+    box-shadow: 0 6px 35px 0 rgba(0, 0, 0, 0.39);
+    margin-left: 200px;
+    bottom: 850px;
+    font-size: 15px;
+  font-weight: 300;
+  line-height: 13px;
+  letter-spacing: 1.4000000000000001px;   
+}
+.d3{
+    color: white;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 207px;
+    height: 73px;
+    margin: 0 auto;
+    background: #483eff;
+    border-radius: 22px;
+    box-shadow: 0 6px 35px 0 rgba(0, 0, 0, 0.39);
+    margin-left: -210px;
+    bottom: 720px;
+    font-size: 15px;
+  font-weight: 300;
+  line-height: 13px;
+  letter-spacing: 1.4000000000000001px;
+}
+.d4{
+    color: white;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 207px;
+    height: 73px;
+    bottom: 590px;
+    background: #483eff;
+    border-radius: 22px;
+    margin-left: -210px;
+    font-size: 15px;
+  font-weight: 300;
+  line-height: 13px;
+  letter-spacing: 1.4000000000000001px;
+    
+}
+.d5{
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 600px;
+    height: 400px;
+    margin-left: 150px;
+    bottom: 540px;
+    font-size: 15px;
+  font-weight: 300;
+  line-height: 13px;
+  letter-spacing: 1.4000000000000001px;
+}
+.d6{
+    color: white;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    width: 127px;
+    height: 43px;
+    bottom: 600px;
+    background: black;
+    border-radius: 22px;
+    margin-left: 1010px;
+    font-size: 15px;
+  font-weight: 300;
+  line-height: 13px;
+  letter-spacing: 1.4000000000000001px;
+
+}
